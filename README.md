@@ -19,8 +19,8 @@ I can be reached at caphilbr@hotmail.com.
 ## Projects
 
 ### Allowance & Chore Tracker
-![Public Website](https://allowance-chore-tracker-46cd68f48ad0.herokuapp.com/)<br/>
-![Repo](https://github.com/caphilbr/allowance-chore-tracker)<br/>
+[Public Website](https://allowance-chore-tracker-46cd68f48ad0.herokuapp.com/)<br/>
+[Repo](https://github.com/caphilbr/allowance-chore-tracker)<br/>
 A web app to make family chore tracking and allowance payments easy. Once a parent creates a "family", they send an invite to their children to join via their own user accounts. As a parent, they can setup recurring allowance payments and create & assign chores to children. Each chore has a due date and a dollar value. As a child, they can see their balance and assigned chores. Once a chore is completed, they submit to their parent for approval and payment.
 
 Other notable features include the use of a one-time invite code to invite a child, uploading of profile photos, automatic allowance payments, parental ability to make ad hoc adjustments to child balances, a graphical presentation of a child's balance over time, and a weekly quiz to earn additional money.
