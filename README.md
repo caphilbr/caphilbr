@@ -16,7 +16,7 @@ I am a full stack software engineer with a background in finance and actuarial s
 ## Skills
 
 - **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks & Tools:** React.js, Express.js, Objection.js, Passport.js, Nodemailer, Dropbox, Git, D3, Numpy, Pandas, SQL, PostgreSQL
+- **Frameworks & Tools:** React.js, Express.js, Objection.js, Passport.js, Nodemailer, Dropbox, Git, D3, Numpy, Pandas, SQL, PostgreSQL, Jest, Cypress
 - **Other:** Agile Methodologies, Jira, 3rd party API, Actuarial Science (FSA, FCIA)
 <p>
   <picture>
@@ -49,6 +49,12 @@ I am a full stack software engineer with a background in finance and actuarial s
   <picture>
     <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="40" height="40"/>
   </picture>
+  <picture>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" alt="Numpy" width="40" height="40"/>
+  </picture>
+  <picture>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cypress-Light.svg" alt="Numpy" width="40" height="40"/>
+  </picture>
 </p>
 
 
@@ -61,7 +67,7 @@ A web app to make family chore tracking and allowance payments easy. Once a pare
 
 Other notable features include the use of a one-time invite code to invite a child, uploading of profile photos, automatic allowance payments, parental ability to make ad hoc adjustments to child balances, a graphical presentation of a child's balance over time, and a weekly quiz to earn additional money.
 
-The app was built with React, Express, and PostgreSQL (with Knex & Objection). Other technical solutions include Nodemailer for sending email invites, Dropbox for profile photos, Passport for user authentication (including Google login), D3 for charts, and a 3rd party API for the quiz.<br/><br/>
+The app was built with React, Express, and PostgreSQL (with Knex & Objection). Other technical solutions include Nodemailer for sending email invites, Dropbox for profile photos, Passport for user authentication (including Google login), D3 for charts, a 3rd party API for the quiz, and Cypress tests.<br/><br/>
 ![screenshot 1](https://github.com/caphilbr/allowance-chore-tracker/blob/main/screen1.jpeg)
 ![screenshot 2](https://github.com/caphilbr/allowance-chore-tracker/blob/main/screen2.jpeg)
 
