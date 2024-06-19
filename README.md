@@ -15,12 +15,15 @@ I am a full stack software engineer with a background in finance and actuarial s
 
 ## Skills
 
-- **Languages:** JavaScript, Python, HTML, CSS
+- **Languages:** JavaScript, TypeScript, Python, HTML, CSS
 - **Frameworks & Tools:** React.js, Express.js, Objection.js, Passport.js, Nodemailer, Dropbox, Git, D3, Numpy, Pandas, SQL, PostgreSQL, Jest, Cypress
 - **Other:** Agile Methodologies, Jira, 3rd party API, Actuarial Science (FSA, FCIA)
 <p>
   <picture>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
+  </picture>
+  <picture>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
   </picture>
   <picture>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>
@@ -50,10 +53,10 @@ I am a full stack software engineer with a background in finance and actuarial s
     <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="40" height="40"/>
   </picture>
   <picture>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" alt="Numpy" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" alt="Jest" width="40" height="40"/>
   </picture>
   <picture>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cypress-Light.svg" alt="Numpy" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cypress-Light.svg" alt="Cypress" width="40" height="40"/>
   </picture>
 </p>
 
