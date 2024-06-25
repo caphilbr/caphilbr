@@ -63,7 +63,7 @@ I am a full stack software engineer with a background in finance and actuarial s
 
 ## Projects
 
-### Allowance & Chore Tracker
+### 1) Allowance & Chore Tracker
 [Public Website](https://allowance-chore-tracker-46cd68f48ad0.herokuapp.com/)<br/>
 [Repo](https://github.com/caphilbr/allowance-chore-tracker)<br/><br/>
 A web app to make family chore tracking and allowance payments easy. Once a parent creates a "family", they send an invite to their children to join via their own user accounts. As a parent, they can setup recurring allowance payments and create & assign chores to children. Each chore has a due date and a dollar value. As a child, they can see their balance and assigned chores. Once a chore is completed, they submit to their parent for approval and payment.
@@ -74,8 +74,27 @@ The app was built with React, Express, and PostgreSQL (with Knex & Objection). O
 ![screenshot 1](https://github.com/caphilbr/allowance-chore-tracker/blob/main/screen1.jpeg)
 ![screenshot 2](https://github.com/caphilbr/allowance-chore-tracker/blob/main/screen2.jpeg)
 
+### 2) Auto-Rebalancing Retirement Forecaster
+[Repo](https://github.com/caphilbr/retirement-forecaster)<br/><br/>
+A web app to determine the sufficiency of your retirement savings. You create a 'Portfolio' which contains your starting balances, age, spending level, etc. You then create a 'Configuration', which tells the app how you want to forecast your savings (e.g., how to determine your annual savings in the future, your target retirement age, how much expenses will drop in retirement, how many scenarios you want to run, etc.). One might imagine running a few different Configurations to see how results are impacted with different inputs.
+
+The app then runs the specified number of projection scenarios. The key result is 'Chance of Fund Exhaustion', which indicates how likely you are to run out of funds before dying! For those interested in the granular results, each scenario can be displayed, along with the year-by-year financial projection.
+
+Other notable features include:
+- auto-rebalancing based on age
+- dynamic retirement age, pushing off retirement if funds are not sufficient
+- asset yields, inflation and salary raises are each dynamically generated each year, based on a mean and standard deviation
+- taxes are determined dynamically, using tax brackets and taking into consideration which type of retirement account withdrawals are from
+- a choice of savings approach (fixed dollar, % of salary, or salary less expenses & taxes)
+
+The calculation engine was built in Python, with results exposed via a Flask api. The user app was built with React, Express, and PostgreSQL (with Knex & Objection). 
+
+![screenshot 1](https://github.com/caphilbr/retirement-forecaster/blob/main/condensedScreenShot.jpg)
+
+And the more granular results, if interested...
+![screenshot 2](https://github.com/caphilbr/retirement-forecaster/blob/main/screenShot2.jpg)
+
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=caphilbr&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caphilbr&layout=compact&theme=radical)
