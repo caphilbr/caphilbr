@@ -16,7 +16,7 @@ I am a full stack software engineer with a background in finance and actuarial s
 ## Skills
 
 - **Languages:** JavaScript, TypeScript, Python, HTML, CSS
-- **Frameworks & Tools:** React.js, Express.js, Objection.js, Passport.js, Nodemailer, Dropbox, Git, D3, Numpy, Pandas, SQL, PostgreSQL, Jest, Cypress
+- **Frameworks & Tools:** React.js, Express.js, Objection.js, Passport.js, Flask, Nodemailer, Dropbox, Git, D3, Numpy, Pandas, SQL, PostgreSQL, Jest, Cypress
 - **Other:** Agile Methodologies, Jira, 3rd party API, Actuarial Science (FSA, FCIA)
 <p>
   <picture>
@@ -27,6 +27,9 @@ I am a full stack software engineer with a background in finance and actuarial s
   </picture>
   <picture>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>
+  </picture>
+  <picture>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="40" height="40"/>
   </picture>
   <picture>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40" height="40"/>
