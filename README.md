@@ -95,10 +95,10 @@ Other notable features include:
 
 The calculation engine was built in Python, with results exposed via a Flask api. The user app was built with React, Express, and PostgreSQL (with Knex & Objection). 
 
-![screenshot 1](https://github.com/caphilbr/retirement-forecaster/blob/582bd6d4a3a65c8120d7b71666b59c87703186a1/smallScreenShot.jpeg)
+![screenshot 1](https://github.com/caphilbr/retirement-forecaster/blob/main/smallScreenShot.jpeg)
 
 And the more granular results, if interested...
-![screenshot 2](https://github.com/caphilbr/retirement-forecaster/blob/582bd6d4a3a65c8120d7b71666b59c87703186a1/largeScreenShot.jpeg)
+![screenshot 2](https://github.com/caphilbr/retirement-forecaster/blob/main/largeScreenShot.jpeg)
 
 ## GitHub Stats
 
